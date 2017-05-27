@@ -1,0 +1,22 @@
+{
+  "name": "todo_app_api",
+  "version": "1.0.0",
+  "description": "Basic RESTful API for basic app implementation only for learning and demonstrative purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisMDeveloper/ToDoAppAPI.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Luis Manuel Ramirez Vargas <luis@luismdeveloper.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuisMDeveloper/ToDoAppAPI/issues"
+  },
+  "homepage": "https://github.com/LuisMDeveloper/ToDoAppAPI#readme"
+}
